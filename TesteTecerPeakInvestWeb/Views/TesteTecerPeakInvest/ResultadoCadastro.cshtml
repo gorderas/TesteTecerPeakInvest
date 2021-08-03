@@ -1,0 +1,25 @@
+﻿@model TesteTecerPeakInvestWeb.ViewModel.Retorno
+
+@{
+    ViewData["Title"] = "Resultado do Cadastro";
+}
+
+<h1>Resultado do Cadastro</h1>
+
+<div>
+    <hr />
+    @if (Model.Sucesso)
+    {
+        <h4>Resultado é : @Model.ValorRetorno</h4>
+    }
+    else
+    {
+        <h4>@Model.ValorRetorno</h4>
+    }
+
+
+</div>
+<br />
+<div>
+    <a asp-action="Cadastro">Voltar para o Cadastro</a>
+</div>

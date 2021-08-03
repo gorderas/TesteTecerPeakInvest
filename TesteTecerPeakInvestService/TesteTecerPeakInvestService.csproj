@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteTecerPeakInvestRepository\TesteTecerPeakInvestRepository.csproj" />
+    <ProjectReference Include="..\TesteTecerPeakInvestServiceDomain\TesteTecerPeakInvestServiceDomain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestIoC\\TesteTecerPeakInvestIoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestIoC\\TesteTecerPeakInvestIoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestIoC\\TesteTecerPeakInvestIoC.csproj",
+        "projectName": "TesteTecerPeakInvestIoC",
+        "projectPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestIoC\\TesteTecerPeakInvestIoC.csproj",
+        "packagesPath": "C:\\Users\\gorde\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestIoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gorde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestRepository\\TesteTecerPeakInvestRepository.csproj": {
+                "projectPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestRepository\\TesteTecerPeakInvestRepository.csproj"
+              },
+              "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestServiceDomain\\TesteTecerPeakInvestServiceDomain.csproj": {
+                "projectPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestServiceDomain\\TesteTecerPeakInvestServiceDomain.csproj"
+              },
+              "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestService\\TesteTecerPeakInvestService.csproj": {
+                "projectPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestService\\TesteTecerPeakInvestService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestRepository\\TesteTecerPeakInvestRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestRepository\\TesteTecerPeakInvestRepository.csproj",
+        "projectName": "TesteTecerPeakInvestRepository",
+        "projectPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestRepository\\TesteTecerPeakInvestRepository.csproj",
+        "packagesPath": "C:\\Users\\gorde\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gorde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestServiceDomain\\TesteTecerPeakInvestServiceDomain.csproj": {
+                "projectPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestServiceDomain\\TesteTecerPeakInvestServiceDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestServiceDomain\\TesteTecerPeakInvestServiceDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestServiceDomain\\TesteTecerPeakInvestServiceDomain.csproj",
+        "projectName": "TesteTecerPeakInvestServiceDomain",
+        "projectPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestServiceDomain\\TesteTecerPeakInvestServiceDomain.csproj",
+        "packagesPath": "C:\\Users\\gorde\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestServiceDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gorde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestService\\TesteTecerPeakInvestService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestService\\TesteTecerPeakInvestService.csproj",
+        "projectName": "TesteTecerPeakInvestService",
+        "projectPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestService\\TesteTecerPeakInvestService.csproj",
+        "packagesPath": "C:\\Users\\gorde\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gorde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestRepository\\TesteTecerPeakInvestRepository.csproj": {
+                "projectPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestRepository\\TesteTecerPeakInvestRepository.csproj"
+              },
+              "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestServiceDomain\\TesteTecerPeakInvestServiceDomain.csproj": {
+                "projectPath": "C:\\Projetos\\TesteTecerPeakInvest\\TesteTecerPeakInvestServiceDomain\\TesteTecerPeakInvestServiceDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TesteTecerPeakInvestIoC/1.0.0": {
+        "dependencies": {
+          "TesteTecerPeakInvestRepository": "1.0.0",
+          "TesteTecerPeakInvestService": "1.0.0",
+          "TesteTecerPeakInvestServiceDomain": "1.0.0"
+        },
+        "runtime": {
+          "TesteTecerPeakInvestIoC.dll": {}
+        }
+      },
+      "TesteTecerPeakInvestRepository/1.0.0": {
+        "dependencies": {
+          "TesteTecerPeakInvestServiceDomain": "1.0.0"
+        },
+        "runtime": {
+          "TesteTecerPeakInvestRepository.dll": {}
+        }
+      },
+      "TesteTecerPeakInvestService/1.0.0": {
+        "dependencies": {
+          "TesteTecerPeakInvestRepository": "1.0.0",
+          "TesteTecerPeakInvestServiceDomain": "1.0.0"
+        },
+        "runtime": {
+          "TesteTecerPeakInvestService.dll": {}
+        }
+      },
+      "TesteTecerPeakInvestServiceDomain/1.0.0": {
+        "runtime": {
+          "TesteTecerPeakInvestServiceDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteTecerPeakInvestIoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteTecerPeakInvestRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteTecerPeakInvestService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteTecerPeakInvestServiceDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

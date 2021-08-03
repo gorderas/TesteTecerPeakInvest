@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TesteTecerPeakInvestRepository/1.0.0": {
+        "dependencies": {
+          "TesteTecerPeakInvestServiceDomain": "1.0.0"
+        },
+        "runtime": {
+          "TesteTecerPeakInvestRepository.dll": {}
+        }
+      },
+      "TesteTecerPeakInvestServiceDomain/1.0.0": {
+        "runtime": {
+          "TesteTecerPeakInvestServiceDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteTecerPeakInvestRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteTecerPeakInvestServiceDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
